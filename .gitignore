@@ -1,0 +1,20 @@
+﻿# Informes generados (IP/MAC/nombre reales: NO subir)
+auditoria_*/
+informe.*
+*.html
+*.pdf
+*.docx
+# Salidas nmap
+*.xml
+*.gnmap
+*.nmap
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
